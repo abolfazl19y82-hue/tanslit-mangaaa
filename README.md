@@ -1,6 +1,6 @@
 # مترجم خودکار مانگا / مانهوا (فارسی)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amirwolf5122/Manga-AutoTranslate/blob/main/Manga_Translator_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/abolfazl19y82-hue/tanslit-mangaaa/blob/main/Manga_Translator_Colab.ipynb)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -38,7 +38,7 @@
 
 ### ۱) Google Colab (پیشنهادی — بدون نصب روی سیستم)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amirwolf5122/Manga-AutoTranslate/blob/main/Manga_Translator_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/abolfazl19y82-hue/tanslit-mangaaa/blob/main/Manga_Translator_Colab.ipynb)
 
 1. یک Runtime با **GPU** بسازید:  
    `Runtime → Change runtime type → GPU (T4)`
